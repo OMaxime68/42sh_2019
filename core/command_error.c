@@ -1,7 +1,7 @@
 /*
 ** EPITECH PROJECT, 2020
 ** PSU_minishell2_2019
-** File description:
+** File description:zaezaezaeazeazeazeaze
 ** command_error
 */
 
