@@ -7,7 +7,7 @@
 
 CFLAGS 	=	-Iinclude -Wall
 LDFLAGS	+=	
-
+     qsdsqd
 EXEC 	=	42sh
 
 SRC		=	main.c							\
