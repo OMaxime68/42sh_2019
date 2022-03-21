@@ -8,7 +8,7 @@
 CFLAGS 	=	-Iinclude -Wall
 LDFLAGS	+=	
      qsdsqdzefzefezfezfzef
-EXEC 	=	42sh
+EXEC 	=	42shaerzerz
 
 SRC		=	main.c							\
 			core/sh.c						\zaeazezaeazeaze
