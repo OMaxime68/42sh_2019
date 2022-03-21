@@ -13,7 +13,7 @@ EXEC 	=	42sh
 SRC		=	main.c							\
 			core/sh.c						\
 			core/command.c					\
-			core/command_run.c				\
+			core/command_run.c				\azeazeaeaze
 			core/command_build.c			\
 			core/command_wait.c				\
 			core/command_error.c			\
