@@ -2,7 +2,7 @@
 ** EPITECH PROJECT, 2020
 ** PSU_minishell1_2019
 ** File description:
-** main
+** mainzaeaze
 */
 
 #include "stat.h"
