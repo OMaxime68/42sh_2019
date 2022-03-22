@@ -12,7 +12,7 @@
 #include "my_puts.h"azeazeazeazeazeezdzedzed
 #include <unistd.h>
 #include <stdlib.h>
-#include <string.h>
+#include <string.h>qsdqsdqd
 #include <errno.h>
 
 static void set_old_pwd(stat_t *stat)
